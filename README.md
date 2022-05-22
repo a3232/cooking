@@ -1,24 +1,34 @@
-# README
+# cooking
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+### サイトテーマ
+料理xコミュニティサイト
+料理のレシピや写真を投稿したり、その投稿を検索したりコメントできるコミュニティサイト
 
-Things you may want to cover:
+### テーマを選んだ理由
+料理することが好きでレシピサイトをよく使うので、より手軽であれば多くの人に使われやすいと思った。また、オリジナルレシピで作る人も多いので、そのレシピをシェアできれば料理のバリエーションが増え楽しくなると考えこのテーマを選びました。
 
-* Ruby version
+### ターゲットユーザ
+- 料理好きな人。
+- 作りたい料理のレシピを知りたい人。
+- 自分の料理のレシピやコツを教えたい人
+- 料理がうまくなりたい人
 
-* System dependencies
+### 主な利用シーン
+- 自分のレシピを紹介したいとき
+- 料理のレシピを知りたいとき。
+- ご飯が決まらないとき。
+- レシピを見て作った時に感想のコメントするとき。
 
-* Configuration
+## 設計書
 
-* Database creation
 
-* Database initialization
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 使用検討中です。
